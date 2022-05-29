@@ -1,6 +1,6 @@
 TinDog Starting Files
 click here
-👉👉👉https://github.com/cosmoverse2000/Tindog-master/deployments/activity_log?environment=github-pages
+👉👉👉[https://github.com/cosmoverse2000/Tindog-master/deployments/activity_log?environment=github-pages](https://cosmoverse2000.github.io/Tindog-master/)
 
 Started with Given HTML files,APPLIED CSS AND BOOTSTRAP Library.....completing all with 
 --------------------------------------------------------------------------------------------
