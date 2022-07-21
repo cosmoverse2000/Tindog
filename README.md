@@ -1,10 +1,6 @@
-TinDog Starting Files
-click here
-👉👉👉[https://github.com/cosmoverse2000/Tindog-master/deployments/activity_log?environment=github-pages](https://cosmoverse2000.github.io/Tindog-master/)
+#Tindod Master
+--------------------------------------------------------------------------------------------
 
-Started with Given HTML files,APPLIED CSS AND BOOTSTRAP Library.....completing all with 
 --------------------------------------------------------------------------------------------
-UDEMY-complete Web DEVlopment course 2022- 
-from SEction -INTRO TO BOOTSTRAP...
-to INTERMEDIATE BOOTSTRAP COMPLETED..
---------------------------------------------------------------------------------------------
+Udemy-complete web development course 2022:
+From section 'intro to bootstrap' to 'intermediate bootstrap' completed.
